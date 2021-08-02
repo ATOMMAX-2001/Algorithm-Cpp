@@ -15,8 +15,7 @@ void kadanes_algoritham(vector<int>& mem)
 		
 		if(total<0){
 			total=0;
-		}
-		
+		}	
 		
 	}
 	cout<<"The Max Sum is "<<max<<endl;
